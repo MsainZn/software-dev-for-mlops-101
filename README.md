@@ -226,13 +226,12 @@ After running the commands from the table, when prompted, initiate your conda ba
   5. Open the Command Pallette again.  Can you remember the shortcut?  If    not, see #2 above again.
 
   6. Type "Python Interpreter".
-     In newer version of vscode, it is important to install WSL extension.
-     Open vs code from terminal using `code .` and then install Pyton extension inside WSL again.
-     Now you can open folder for your projects, and create ".py" and ".ipynb" fime from new file menu.
+     In newer version of vscode, you might not see Python Interpreter. To remedy that it is important to install WSL extension.
+     No just open vs code from terminal using `code .` and then install Python extension inside WSL again.
   
   7. Click on `Python: Select Interpreter`
 
-  8. Select the `Conda` environment that you installed earlier. 
+  8. Select the `Conda` environment that you installed earlier.
   
   <p align = "center" draggable=”false”>
   <img src="images/vscode_mlops_interpreter.png"> 
